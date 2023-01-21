@@ -6,11 +6,13 @@ Running out of disk space but don't know why? Scan the disk & Compare to the las
 
 
 
+
 ### Intro
 
 python script - Scannig hard disk files storage and Finding out major differences by comparing with last scanning result.
 
 python 脚本 - 扫描硬盘所有文件的存储空间，对比上一次的扫描结果，以找出主要的变化
+
 
 
 
@@ -24,6 +26,7 @@ python 脚本 - 扫描硬盘所有文件的存储空间，对比上一次的扫�
 对比的结果保存在文件中，如果数量较少（<=30）则直接输出在命令台
 
 > 无法访问的文件大小为 -1 (Byte)
+
 
 
 
