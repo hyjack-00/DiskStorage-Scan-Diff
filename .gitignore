@@ -1,5 +1,1 @@
-scan_result/*
-!scan_result/.gitkeep
-diff_result/*
-!diff_result/.gitkeep
 .idea
